@@ -7,7 +7,7 @@ function App() {
 <section className="bg-blue-700">
   <div className="flex flex-col items-center justify-center">
     <div className="">
-      <h1 className="mx-4 my-4 text-start sm:text-center text-6xl font-bold text-white sm:text-7xl md:text-8xl lg:text-9xl">Find that<br />Exclusive<br />Unicorn.</h1>
+      <h1 className="mx-4 my-4 text-start sm:text-center text-6xl font-bold text-white sm:text-7xl md:text-8xl lg:text-9xl">Amarildo<br />Exclusive<br />Unicorn.</h1>
       <p className="mx-4 my-4 text-start sm:text-center text-sm text-white sm:text-xl">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias sunt quam laudantium, nemo obcaecati beatae, voluptatibus quisquam cumque deserunt deleniti incidunt, ea magnam quod aperiam nihil maiores officia natus fugit rem adipisci perferendis dolor? Possimus eos iusto, ipsum, eveniet voluptatum voluptas maxime nisi aliquam earum rem cum, quos esse amet rerum recusandae optio similique quod!</p>
       <div className="flex flex-row items-center justify-center">
         <button className="mx-4 rounded-4xl my-4 bg-blue-400 px-10 py-1 font-bold text-white sm:px-25 sm:py-4 hover:bg-blue-800">ENROLL</button>
